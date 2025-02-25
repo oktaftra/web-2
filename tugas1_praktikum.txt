@@ -1,0 +1,18 @@
+1. Dokumen root merujuk pada file atau dokumen utama yang berada di direktori paling atas dalam suatu sistem file atau struktur direktori. Dalam konteks web, dokumen root adalah folder utama tempat penyimpanan semua file website, termasuk file HTML, CSS, JavaScript, gambar, dan lainnya.
+
+2. Pada Apache Web Server yang dijalankan melalui XAMPP, secara default dokumen root memang terletak di dalam direktori C:\xampp\htdocs pada sistem operasi Windows. Namun, dokumen root tidak harus selalu terletak di direktori tersebut. Anda bisa mengubah lokasi dokumen root sesuai kebutuhan.
+
+3. git init: Perintah ini digunakan untuk membuat repository Git baru di direktori yang sedang aktif. 
+git clone: Perintah ini digunakan untuk mengkloning repository Git yang sudah ada ke dalam direktori lokal. Ini memungkinkan Anda untuk menyalin seluruh proyek beserta riwayat versinya.
+git remote: Perintah ini digunakan untuk mengelola remote repositories yang terhubung dengan repository lokal. 
+git add: Perintah ini digunakan untuk menambahkan perubahan (file atau direktori) ke staging area sebelum melakukan commit. 
+git commit: Perintah ini digunakan untuk menyimpan perubahan yang telah ditambahkan ke staging area ke dalam repository.
+git push: Perintah ini digunakan untuk mengirimkan (push) commit yang ada di repository lokal ke remote repository.
+git checkout: Perintah ini digunakan untuk berpindah antara cabang (branch) atau memulihkan file ke keadaan sebelumnya.
+
+4. GitHub lebih cocok untuk proyek open-source, kolaborasi sosial, dan pengguna yang membutuhkan platform sederhana dan terkenal untuk berbagi kode.
+GitLab lebih cocok untuk tim pengembang atau organisasi yang menginginkan solusi yang lebih komprehensif dan mendalam terkait dengan siklus hidup pengembangan perangkat lunak, serta integrasi CI/CD yang kuat.
+
+5. Perbedaan antara variable user dan variable system terletak pada lingkungan atau scope tempat variabel tersebut diterapkan dan siapa yang dapat mengaksesnya
+
+6. Baik variabel sistem dan variabel konstanta bersifat tetap dan tidak dapat diubah setelah ditentukan, serta digunakan untuk mengatur pengaturan yang penting. Namun, mereka diterapkan dalam konteks yang berbeda: variabel sistem untuk pengaturan di level sistem operasi, sementara variabel konstanta untuk menjaga nilai tetap dalam pemrograman.
